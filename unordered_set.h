@@ -2,7 +2,7 @@
 // Most comments in this file were generated with the help of artificial intelligence (AI).
 // The code itself was written by the author.
 // ---------------------------------------------------------------------------------
-// Filename: unordered_set.hpp
+// Filename: unordered_set.h
 // Author: Jakovlev Alexandr
 // Direction: HSE FCS SE
 // Discipline: Basics of C++ programming
