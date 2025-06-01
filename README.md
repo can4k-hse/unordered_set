@@ -66,7 +66,6 @@ Also supports:
 - `.clang-format` — Code formatting settings
 - `.clang-tidy` — Linting configuration
 - `tests/unordered_set_public_test.cpp` — test cases
-- `.env` — environment variables, specify tests
 ---
 
 ## 🧪 Tests
