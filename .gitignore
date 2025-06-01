@@ -1,4 +1,4 @@
 .env
-.catch.hpp
-.test_sanitize.sh
+catch.hpp
+test_sanitize.sh
 .vscode
